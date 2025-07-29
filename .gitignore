@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+*.suo
+*.DS_Store
+*.exe
+*.dll
+*.pdb
+.vscode/
+vault/
+output/
